@@ -1,0 +1,36 @@
+{
+  "name": "frontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bulma": "^0.7.2",
+    "email-validator": "^2.0.4",
+    "express": "^4.16.4",
+    "react": "^16.6.0",
+    "react-dom": "^16.6.0",
+    "react-facebook-login": "^4.1.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "2.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "description": "พี่ได้เขียนโค้ตและอธิบายเป็นภาษาไทย ให้น้องลองดูไฟล์  ``` src/index.js src/App.js src/components/Login.js src/components/Register.js ``` ให้น้องลองศึกษาละเขียนให้สมบูรณ์ (รวมทั้งในไฟล์ register.js) (อย่าลืม npm install ด้วย<br/> พี่หวังว่าจะไม่ลอก style ของหน้าต่างของ bulma กันมานะครับ",
+  "main": "index.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
